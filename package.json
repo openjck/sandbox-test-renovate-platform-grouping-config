@@ -1,7 +1,7 @@
 {
   "name": "sandbox-test-renovate-platform-grouping-config",
   "dependencies": {
-    "express": "^1.0.0",
+    "express": "1.0.0",
     "immer": "1.0.0",
     "react": "15.0.0"
   }
