@@ -1,9 +1,9 @@
 {
   "extends": ["config:base"],
   "js": {
-    "extends": ["group:all"]
+    "managerBranchPrefix": ["js-"]
   },
   "python": {
-    "extends": ["group:all"]
+    "managerBranchPrefix": ["python-"]
   }
 }
