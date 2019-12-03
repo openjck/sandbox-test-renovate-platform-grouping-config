@@ -1,11 +1,9 @@
 {
-  "extends": [
-    "config:base"
-  ],
-  "js": [
-    "group:all"
-  ],
-  "python": [
-    "group:all"
-  ]
+  "extends": ["config:base"],
+  "js": {
+    "extends": ["group:all"]
+  },
+  "python": {
+    "extends": ["group:all"]
+  }
 }
