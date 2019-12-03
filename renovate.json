@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "js": [
+    "group:all"
+  ],
+  "python": [
+    "group:all"
+  ]
+}
